@@ -48,8 +48,14 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WzhELk--0MdPy8fvKWdw-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WzhELk--0MdPy8fvKWdw-27" target="WzhELk--0MdPy8fvKWdw-21">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="WzhELk--0MdPy8fvKWdw-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WzhELk--0MdPy8fvKWdw-21">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="660" y="80" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="600" y="180" />
+              <mxPoint x="660" y="180" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="WzhELk--0MdPy8fvKWdw-27" value="&lt;span style=&quot;font-family: Poppins-Medium; text-align: start; background-color: rgb(0, 0, 0);&quot;&gt;&lt;font style=&quot;&quot; color=&quot;#ffffff&quot;&gt;&lt;b&gt;Calculate speed, orientation and attitude&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#000000;strokeColor=#FCFCFC;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="661" y="60" width="160" height="40" as="geometry" />
