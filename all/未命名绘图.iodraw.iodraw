@@ -31,7 +31,7 @@
         <mxCell id="WzhELk--0MdPy8fvKWdw-10" value="&lt;span style=&quot;font-family: Poppins-Medium; text-align: start; background-color: rgb(0, 0, 0);&quot;&gt;&lt;font style=&quot;&quot; color=&quot;#ffffff&quot;&gt;&lt;b&gt;Calculate speed, orientation and attitude&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#000000;strokeColor=#FCFCFC;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="290" y="60" width="160" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="WzhELk--0MdPy8fvKWdw-20" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#FFFFFF;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="WzhELk--0MdPy8fvKWdw-20" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#FFFFFF;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="WzhELk--0MdPy8fvKWdw-33">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="480" y="80" as="sourcePoint" />
             <mxPoint x="480" y="140" as="targetPoint" />
@@ -84,8 +84,11 @@
             <mxPoint x="430" y="160" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="WzhELk--0MdPy8fvKWdw-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WzhELk--0MdPy8fvKWdw-33" target="WzhELk--0MdPy8fvKWdw-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="WzhELk--0MdPy8fvKWdw-33" value="&lt;a style=&quot;margin: 0px 0px 0px 2px; padding: 0px; cursor: pointer; outline: none; font-family: Poppins-Medium; font-weight: 600; text-align: start;&quot; class=&quot;point&quot; data-v-d0c74fb2=&quot;&quot; data-v-61ce6cc7=&quot;&quot;&gt;&lt;font style=&quot;background-color: rgb(0, 0, 0); font-size: 12px;&quot; color=&quot;#ffffff&quot;&gt;Data Pre-processing&lt;/font&gt;&lt;/a&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#000000;strokeColor=#FCFCFC;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="440" y="140" width="90" height="40" as="geometry" />
+          <mxGeometry x="430" y="140" width="90" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
