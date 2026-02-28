@@ -55,7 +55,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="WzhELk--0MdPy8fvKWdw-27" value="&lt;span style=&quot;font-family: Poppins-Medium; text-align: start; background-color: rgb(0, 0, 0);&quot;&gt;&lt;font style=&quot;&quot; color=&quot;#ffffff&quot;&gt;&lt;b&gt;Calculate speed, orientation and attitude&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#000000;strokeColor=#FCFCFC;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="300" y="70" width="160" height="40" as="geometry" />
+          <mxGeometry x="650" y="60" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WzhELk--0MdPy8fvKWdw-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#FFFFFF;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="460" y="90" as="sourcePoint" />
+            <mxPoint x="530" y="90" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
