@@ -69,7 +69,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="WzhELk--0MdPy8fvKWdw-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WzhELk--0MdPy8fvKWdw-31" target="WzhELk--0MdPy8fvKWdw-40">
+        <mxCell id="WzhELk--0MdPy8fvKWdw-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#FFFFFF;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WzhELk--0MdPy8fvKWdw-31" target="WzhELk--0MdPy8fvKWdw-40">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="WzhELk--0MdPy8fvKWdw-31" value="&lt;span style=&quot;font-family: Poppins-Medium; text-align: start; background-color: rgb(0, 0, 0);&quot;&gt;&lt;font size=&quot;1&quot; style=&quot;&quot; color=&quot;#ffffff&quot;&gt;&lt;b style=&quot;&quot;&gt;Zero-speed detection&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#000000;strokeColor=#FCFCFC;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
@@ -96,7 +96,7 @@
             <mxPoint x="585" y="160" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WzhELk--0MdPy8fvKWdw-40" value="" style="whiteSpace=wrap;html=1;fillColor=#000000;strokeColor=#FCFCFC;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="WzhELk--0MdPy8fvKWdw-40" value="" style="whiteSpace=wrap;html=1;fillColor=#000000;strokeColor=#FCFCFC;rounded=1;arcSize=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="240" y="250" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
