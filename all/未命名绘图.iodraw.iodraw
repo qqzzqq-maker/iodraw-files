@@ -4,7 +4,7 @@
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
-        <mxCell id="WIyWlLk6GJQsqaUBKTNV-3" value="Inertial Components" style="rounded=1;whiteSpace=wrap;html=1;glass=0;strokeWidth=1;shadow=0;arcSize=12;verticalAlign=middle;spacing=2;labelBackgroundColor=default;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-3" value="Inertial Components" style="rounded=1;whiteSpace=wrap;html=1;glass=0;strokeWidth=1;shadow=0;arcSize=12;verticalAlign=middle;spacing=2;labelBackgroundColor=#000000;fontColor=#FCFCFC;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="160" y="80" width="140" height="70" as="geometry" />
         </mxCell>
       </root>
