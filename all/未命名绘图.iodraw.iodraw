@@ -26,16 +26,14 @@
         <mxCell id="WzhELk--0MdPy8fvKWdw-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#FFFFFF;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WzhELk--0MdPy8fvKWdw-10">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="520" y="80" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="480" y="80" />
+              <mxPoint x="480" y="81" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="WzhELk--0MdPy8fvKWdw-10" value="&lt;span style=&quot;font-family: Poppins-Medium; text-align: start; background-color: rgb(0, 0, 0);&quot;&gt;&lt;font style=&quot;&quot; color=&quot;#ffffff&quot;&gt;&lt;b&gt;Calculate speed, orientation and attitude&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#000000;strokeColor=#FCFCFC;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="290" y="60" width="150" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="WzhELk--0MdPy8fvKWdw-20" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#FFFFFF;entryX=0.611;entryY=0.028;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="WzhELk--0MdPy8fvKWdw-33">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="470" y="80" as="sourcePoint" />
-            <mxPoint x="480" y="140" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="WzhELk--0MdPy8fvKWdw-21" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#000000;strokeColor=#FFFFFF;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="520" y="40" width="80" height="80" as="geometry" />
