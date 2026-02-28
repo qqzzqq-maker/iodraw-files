@@ -9,7 +9,7 @@
             <mxPoint x="150" y="80" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WzhELk--0MdPy8fvKWdw-3" value="&lt;a style=&quot;margin: 0px 0px 0px 2px; padding: 0px; cursor: pointer; outline: none; font-family: Poppins-Medium; font-weight: 600; text-align: start;&quot; class=&quot;point&quot; data-v-d0c74fb2=&quot;&quot; data-v-61ce6cc7=&quot;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot; color=&quot;#fcfcfc&quot;&gt;Inertial Components&lt;/font&gt;&lt;/a&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#FCFCFC;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="WzhELk--0MdPy8fvKWdw-3" value="&lt;a style=&quot;margin: 0px 0px 0px 2px; padding: 0px; cursor: pointer; outline: none; font-family: Poppins-Medium; font-weight: 600; text-align: start;&quot; class=&quot;point&quot; data-v-d0c74fb2=&quot;&quot; data-v-61ce6cc7=&quot;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;Inertial Components&lt;/font&gt;&lt;/a&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#FCFCFC;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="10" y="60" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="WzhELk--0MdPy8fvKWdw-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#FFFFFF;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WzhELk--0MdPy8fvKWdw-8" target="WzhELk--0MdPy8fvKWdw-10">
