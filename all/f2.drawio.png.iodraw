@@ -57,7 +57,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="WzhELk--0MdPy8fvKWdw-27" value="&lt;span style=&quot;font-family: Poppins-Medium; text-align: start; background-color: rgb(0, 0, 0);&quot;&gt;&lt;b style=&quot;&quot;&gt;Calculate speed, orientation and attitude&lt;/b&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FCFCFC;strokeColor=#000000;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="WzhELk--0MdPy8fvKWdw-27" value="&lt;span style=&quot;font-family: Poppins-Medium; text-align: start; background-color: rgb(252, 252, 252);&quot;&gt;&lt;b style=&quot;&quot;&gt;Calculate speed, orientation and attitude&lt;/b&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FCFCFC;strokeColor=#000000;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="661" y="60" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="WzhELk--0MdPy8fvKWdw-30" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#000000;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WzhELk--0MdPy8fvKWdw-8">
