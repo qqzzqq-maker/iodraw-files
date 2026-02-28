@@ -74,6 +74,9 @@
             <mxPoint x="300" y="250" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="WzhELk--0MdPy8fvKWdw-48" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WzhELk--0MdPy8fvKWdw-31" target="WzhELk--0MdPy8fvKWdw-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="WzhELk--0MdPy8fvKWdw-31" value="&lt;span style=&quot;font-family: Poppins-Medium; text-align: start; background-color: rgb(0, 0, 0);&quot;&gt;&lt;font size=&quot;1&quot; style=&quot;&quot; color=&quot;#ffffff&quot;&gt;&lt;b style=&quot;&quot;&gt;Zero-speed detection&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#000000;strokeColor=#FCFCFC;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="250" y="140" width="100" height="40" as="geometry" />
         </mxCell>
@@ -82,6 +85,9 @@
             <mxPoint x="350" y="159.5" as="sourcePoint" />
             <mxPoint x="400" y="160" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="WzhELk--0MdPy8fvKWdw-49" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WzhELk--0MdPy8fvKWdw-33" target="WzhELk--0MdPy8fvKWdw-31">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="WzhELk--0MdPy8fvKWdw-33" value="&lt;span style=&quot;font-family: Poppins-Medium; text-align: start; background-color: rgb(0, 0, 0);&quot;&gt;&lt;font color=&quot;#ffffff&quot;&gt;&lt;b&gt;Kalman filtering corrects errors&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#000000;strokeColor=#FCFCFC;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="400" y="140" width="120" height="40" as="geometry" />
