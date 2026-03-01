@@ -103,10 +103,10 @@
           <mxGeometry x="340" y="1080" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="WKs6IjTJiknaAz9TLRsS-27" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="130" y="120" width="410" height="475.75" as="geometry" />
+          <mxGeometry x="170" y="120" width="370" height="475.75" as="geometry" />
         </mxCell>
         <mxCell id="WKs6IjTJiknaAz9TLRsS-28" value="Strapdown inertial navigation solution" style="text;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="150" y="320" width="70" height="40" as="geometry" />
+          <mxGeometry x="200" y="310" width="70" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
