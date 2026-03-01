@@ -64,8 +64,14 @@
             <mxPoint x="500" y="240" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="t7HIwCIlDpGxDL2uRPrS-16" value="&#xa;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Poppins-Medium; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;Correction error&lt;/span&gt;&#xa;&#xa;" style="rounded=0;whiteSpace=wrap;html=1;spacingTop=7;" vertex="1" parent="1">
+        <mxCell id="t7HIwCIlDpGxDL2uRPrS-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="t7HIwCIlDpGxDL2uRPrS-16" target="t7HIwCIlDpGxDL2uRPrS-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="t7HIwCIlDpGxDL2uRPrS-16" value="&#xa;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Poppins-Medium; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;Correction error&lt;/span&gt;&#xa;&#xa;" style="rounded=0;whiteSpace=wrap;html=1;spacingTop=14;" vertex="1" parent="1">
           <mxGeometry x="500" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="t7HIwCIlDpGxDL2uRPrS-18" value="" style="ellipse;whiteSpace=wrap;html=1;rounded=0;spacingTop=14;" vertex="1" parent="1">
+          <mxGeometry x="320" y="200" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
