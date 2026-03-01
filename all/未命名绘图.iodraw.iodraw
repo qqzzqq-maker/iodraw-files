@@ -65,10 +65,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="WKs6IjTJiknaAz9TLRsS-18" value="&lt;span style=&quot;font-family: Poppins-Medium; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;Estimate the error variance of speed, position and direction&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="140" y="800" width="150" height="60" as="geometry" />
+          <mxGeometry x="140" y="800" width="170" height="60" as="geometry" />
         </mxCell>
         <mxCell id="WKs6IjTJiknaAz9TLRsS-20" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="155" y="940" width="120" height="60" as="geometry" />
+          <mxGeometry x="155" y="910" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
