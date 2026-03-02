@@ -16,8 +16,14 @@
         <mxCell id="MsbvnkxkXNNFNziHE0W6-2" value="&lt;span style=&quot;font-family: 宋体;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot; face=&quot;Calibri&quot;&gt;Transform static detection into a binary hypothesis testing problem&lt;/font&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="303" y="210" width="160" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="MsbvnkxkXNNFNziHE0W6-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MsbvnkxkXNNFNziHE0W6-4" target="MsbvnkxkXNNFNziHE0W6-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="MsbvnkxkXNNFNziHE0W6-4" value="&lt;span style=&quot;font-family: 宋体;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot; face=&quot;Calibri&quot;&gt;Apply N-P criterion to establish the likelihood inequality for static detection&lt;/font&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="303" y="320" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MsbvnkxkXNNFNziHE0W6-6" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="323" y="460" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
